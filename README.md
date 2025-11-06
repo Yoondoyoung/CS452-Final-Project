@@ -39,4 +39,13 @@ To make expense and nutrition tracking effortless by turning paper receipts into
 *(See the image below for database schema)*  
 ![ERD](ERD/supabase-schema-uojsnkcipoiyvwflelav.png)
 
+---
+
+
+## 🕒 Project Work Log
+👉 [View full log here](./project_log.md)
+
+---
+
+
 
