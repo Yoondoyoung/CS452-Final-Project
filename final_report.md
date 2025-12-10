@@ -29,7 +29,7 @@ The **Receipt Scanner App** allows users to scan grocery or retail receipts usin
 ---
 
 ## 📊 ERD (Entity Relationship Diagram)
-
+![ERD](ERD/supabase-schema-uojsnkcipoiyvwflelav.png)
 
 ---
 
