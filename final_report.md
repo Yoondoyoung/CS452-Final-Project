@@ -14,7 +14,12 @@ The **Receipt Scanner App** allows users to scan grocery or retail receipts usin
 
 ## Demo
 
-![DEMO](demo_images/IMG_2092.PNG)
+<p align="center">
+  <img src="./demo_images/IMG_2092.PNG" width="150">
+  <img src="./demo_images/IMG_2093.PNG" width="150">
+  <img src="./demo_images/IMG_2094.PNG" width="150">
+</p>
+
 
 # Architecture & Design
 
