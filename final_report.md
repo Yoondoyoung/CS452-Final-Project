@@ -2,7 +2,7 @@
 
 ## Project Github Repository
 
-**Repo Link:** [https://github.com/your-username/receipt-scanner-app](https://github.com/your-username/receipt-scanner-app)
+**Repo Link:** [[https://github.com/your-username/receipt-scanner-app](https://github.com/your-username/receipt-scanner-app)](https://github.com/Yoondoyoung/CS452-Final-Project)
 
 # 🧾 Receipt Scanner App — Final Project Report
 
